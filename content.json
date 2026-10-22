@@ -1,0 +1,32 @@
+[
+  {
+    "path": "daily-flag-quiz",
+    "title": "Free daily flag quiz: five countries a day",
+    "description": "Identify five national flags in a new daily geography challenge.",
+    "answer": "Denny Daily presents five country flags every UTC day. Each question has four choices, and every player receives the same edition.",
+    "how": "Choose the country for each flag. After answering, you will see the correct country and can move to the next question. The final score is out of five. Your result can be copied as a spoiler-free row of squares.",
+    "detail": "There is no timer and no account. You can pause and return in the same browser. Progress is saved locally as you answer. Device changes, private browsing or clearing site data can remove your saved progress.",
+    "cta": "/",
+    "action": "Play today’s challenge"
+  },
+  {
+    "path": "how-daily-streaks-work",
+    "title": "How daily quiz streaks work",
+    "description": "Understand UTC resets, local progress and consecutive-day streaks.",
+    "answer": "A streak counts completed challenges on consecutive UTC dates. Completing all five questions counts, whatever your score.",
+    "how": "The next challenge begins at 00:00 UTC. If you have not completed today’s challenge, a streak ending yesterday remains visible. Missing a full UTC day breaks the streak. Your local midnight may be different from the reset time.",
+    "detail": "Progress belongs to this browser, not to an account. Reset my progress removes the local daily history after confirmation. A high score is the best result among saved completed days, rather than a global ranking.",
+    "cta": "/",
+    "action": "Continue your streak"
+  },
+  {
+    "path": "learn-country-flags",
+    "title": "Learn country flags with a daily practice habit",
+    "description": "Practice recognizing national flags through a short daily routine.",
+    "answer": "A useful way to learn flags is to notice a distinctive feature, compare similar designs, and revisit what you missed.",
+    "how": "Look for the arrangement of stripes, a central symbol, a cross, or the shape of a star. After each question, read the correct country rather than moving on immediately. On the result screen, review the flags you missed.",
+    "detail": "This launch collection contains 40 countries. The same country can appear on different days. Flags are rendered as Unicode emoji and may look different across operating systems. A device without flag rendering may show a two-letter code.",
+    "cta": "/",
+    "action": "Practice five flags"
+  }
+]
