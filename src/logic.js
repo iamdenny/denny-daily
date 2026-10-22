@@ -63,11 +63,15 @@ function shuffle(a, r) {
   }
   return a;
 }
-export function challenge(day) {
+export function challenge(day, codes = null) {
+  const pool = codes
+    ? countries.filter((c) => codes.includes(c[0]))
+    : countries;
+  if (pool.length < 5) throw Error("At least five countries are required");
   let seed = 0;
   for (const c of day) seed = (Math.imul(seed, 31) + c.charCodeAt(0)) >>> 0;
   const r = random(seed);
-  return shuffle(countries, r)
+  return shuffle(pool, r)
     .slice(0, 5)
     .map((country) => ({
       country,
@@ -75,7 +79,7 @@ export function challenge(day) {
         [
           country,
           ...shuffle(
-            countries.filter((c) => c[0] !== country[0]),
+            pool.filter((c) => c[0] !== country[0]),
             r,
           ).slice(0, 3),
         ],
