@@ -1162,5 +1162,11 @@
     "ko": "{region} 국기를 익힌 뒤 다른 국기와 함께 5문제 퀴즈로 연습하세요.",
     "ja": "{region}の旗を覚えてから、ほかの旗と一緒に5問のクイズで練習しましょう。",
     "es": "Aprende la bandera de {region} y practícala junto a otras banderas en un cuestionario de cinco preguntas."
+  },
+  "From the same maker": {
+    "en": "From the same maker",
+    "ko": "같은 제작자의 다른 서비스",
+    "ja": "同じ開発者のサービス",
+    "es": "Más del mismo creador"
   }
 }
