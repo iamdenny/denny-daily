@@ -40,6 +40,7 @@ export const countries = [
   ["UA", "Ukraine"],
   ["PL", "Poland"],
 ];
+export const practiceCountries = [...countries, ["MN", "Mongolia"], ["TW", "Taiwan"]];
 export function emoji(code) {
   return [...code]
     .map((c) => String.fromCodePoint(c.charCodeAt(0) + 127397))
@@ -63,16 +64,18 @@ function shuffle(a, r) {
   }
   return a;
 }
-export function challenge(day, codes = null) {
+export function challenge(day, codes = null, focusCode = null) {
   const pool = codes
-    ? countries.filter((c) => codes.includes(c[0]))
+    ? practiceCountries.filter((c) => codes.includes(c[0]))
     : countries;
   if (pool.length < 5) throw Error("At least five countries are required");
   let seed = 0;
   for (const c of day) seed = (Math.imul(seed, 31) + c.charCodeAt(0)) >>> 0;
   const r = random(seed);
-  return shuffle(pool, r)
-    .slice(0, 5)
+  const ordered = shuffle(pool, r);
+  const selected = focusCode ? [pool.find(c => c[0] === focusCode), ...ordered.filter(c => c[0] !== focusCode).slice(0,4)] : ordered.slice(0,5);
+  if (selected.some(c => !c)) throw Error("Unknown focus flag");
+  return selected
     .map((country) => ({
       country,
       options: shuffle(

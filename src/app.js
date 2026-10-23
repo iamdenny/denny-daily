@@ -2,7 +2,7 @@ import { packs } from "./packs.js";
 import { t, locale, country, preset } from "./i18n.js";
 import { challenge, emoji, utcDay, validAnswers, stats } from "./logic.js";
 const practice = packs.find((p) => p.id === preset.pack);
-const makeChallenge = (day) => challenge(day, practice?.codes);
+const makeChallenge = (day) => challenge(day, practice?.codes, practice?.focusCode);
 const $ = (s) => document.querySelector(s),
   key = "denny-daily-v1";
 let day = utcDay(),

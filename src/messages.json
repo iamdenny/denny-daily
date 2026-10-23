@@ -1138,5 +1138,29 @@
     "ko": "방문 통계에는 페이지 경로와 기능 이름만 전송합니다. URL 쿼리·해시·입력 내용·사용자 수치·퀴즈 답변은 제외합니다. 동의를 철회하면 이후 수집을 중단하지만 제공업체가 이미 처리한 데이터는 삭제되지 않습니다.",
     "ja": "解析にはページのパスと機能名のみを送り、URLのクエリ・フラグメント、入力内容、数値、クイズの回答は除外します。同意撤回後は収集を停止しますが、既に処理されたデータは削除されません。",
     "es": "La analítica recibe rutas y nombres de funciones. Excluimos consultas y fragmentos de URL, texto, valores y respuestas. Retirar el permiso detiene la recogida futura, pero no elimina datos ya procesados."
+  },
+  "This flag is always the first question. Learn its name, then test it alongside four other flags from the practice pool.": {
+    "en": "This flag is always the first question. Learn its name, then test it alongside four other flags from the practice pool.",
+    "ko": "이 깃발은 항상 첫 번째 문제로 나옵니다. 이름을 익힌 뒤 연습 목록에서 고른 다른 깃발 네 개와 함께 풀어 보세요.",
+    "ja": "この旗は必ず最初の問題に出ます。名前を覚え、練習リストから選ばれた他の旗4つと一緒に挑戦しましょう。",
+    "es": "Esta bandera siempre aparece primero. Aprende su nombre y practica con otras cuatro banderas del grupo."
+  },
+  "Region code": {
+    "en": "Region code",
+    "ko": "지역 코드",
+    "ja": "地域コード",
+    "es": "Código de región"
+  },
+  "Search activities": {
+    "en": "Search activities",
+    "ko": "콘텐츠 검색",
+    "ja": "コンテンツを検索",
+    "es": "Buscar actividades"
+  },
+  "Learn the flag of {region}, then practice it alongside other flags in a five-question quiz.": {
+    "en": "Learn the flag of {region}, then practice it alongside other flags in a five-question quiz.",
+    "ko": "{region} 국기를 익힌 뒤 다른 국기와 함께 5문제 퀴즈로 연습하세요.",
+    "ja": "{region}の旗を覚えてから、ほかの旗と一緒に5問のクイズで練習しましょう。",
+    "es": "Aprende la bandera de {region} y practícala junto a otras banderas en un cuestionario de cinco preguntas."
   }
 }

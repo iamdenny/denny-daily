@@ -25,7 +25,7 @@
     "description": "Practice recognizing national flags through a short daily routine.",
     "answer": "A useful way to learn flags is to notice a distinctive feature, compare similar designs, and revisit what you missed.",
     "how": "Look for the arrangement of stripes, a central symbol, a cross, or the shape of a star. After each question, read the correct country rather than moving on immediately. On the result screen, review the flags you missed.",
-    "detail": "This launch collection contains 40 countries. The same country can appear on different days. Flags are rendered as Unicode emoji and may look different across operating systems. A device without flag rendering may show a two-letter code.",
+    "detail": "The daily challenge uses 40 countries; country-focused practice also includes Mongolia and Taiwan. The same country can appear on different days. Flags are rendered as Unicode emoji and may look different across operating systems. A device without flag rendering may show a two-letter code.",
     "cta": "/",
     "action": "Practice five flags"
   }

@@ -1,3 +1,4 @@
+import { practiceCountries } from "./logic.js";
 export const packs = [
   {
     id: "world",
@@ -56,3 +57,11 @@ export const packs = [
     codes: ["JP", "KR", "CN", "TH", "VN", "ID", "PH", "SG", "MY", "AU", "NZ"],
   },
 ];
+
+// Country-specific practice always includes its focus flag. The original daily pool is unchanged.
+export const focusPacks = practiceCountries.map(([code, name]) => {
+  const regional = packs.find(pack => pack.codes?.includes(code));
+  const codes = [...new Set([code, ...(regional?.codes || ["JP", "KR", "CN", "IN", "TH"])])];
+  return { id: "focus-" + code.toLowerCase(), name, focusCode: code, codes };
+});
+packs.push(...focusPacks);
