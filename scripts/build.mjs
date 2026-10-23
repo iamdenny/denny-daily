@@ -1,3 +1,4 @@
+import { versionModules } from "./version-modules.mjs";
 import { versionStyles } from "./version-styles.mjs";
 import { discovery, related } from "./discovery.mjs";
 import { services, destination, artwork } from "../src/service-promo.js";
@@ -114,11 +115,10 @@ function catalog(lang) {
   }
   if (s.slug === "daily")
     for (const pack of packs) {
-      const pool = daily.practiceCountries.filter(
-        (c) => !pack.codes || pack.codes.includes(c[0]),
-      );
+      const pool = pack.codes ? daily.practiceCountries.filter(c => pack.codes.includes(c[0])) : daily.countries;
       out.push({
         path: `practice/${pack.id}/`,
+        group: pack.region || pack.id,
         title: t("{region} flag practice", { region: pack.focusCode ? new Intl.DisplayNames([lang], { type: "region" }).of(pack.focusCode) : t(pack.name) }),
         desc: t(
           pack.focusCode ? "Learn the flag of {region}, then practice it alongside other flags in a five-question quiz." : "Learn {n} country flags from {region}, then answer five questions with localized country names. Play again with a new selection.",
@@ -268,7 +268,7 @@ for (const lang of langs) {
     hero(t(titleKey), t(descKey)) +
       tool(s.slug, t, defaultPreset) +
       discovery(s.slug,lang,items,p=>local(lang,p.path)) +
-      `<section class="info"><h2>${t("All activities")}</h2>${cards(items.slice(0, 9))}<p><a class="button" href="${local(lang, "activities/")}">${t("All activities")} (${items.length}) →</a></p></section>`,
+      `<section class="info"><h2>${t("All activities")}</h2>${cards(items.slice(-100).filter((p,i)=>i%12===0).slice(0,9))}<p><a class="button" href="${local(lang, "activities/")}">${t("All activities")} (${items.length}) →</a></p></section>`,
     defaultPreset,
   );
   for (const p of items)
@@ -279,7 +279,7 @@ for (const lang of langs) {
       p.desc,
       hero(p.title, p.desc) +
         tool(s.slug, t, p.preset) +
-        `<article class="info">${p.body}<p class="muted">${t("Updated 22 October 2026 · Denny Lim")}</p><h2>${t("Related activities")}</h2>${cards(related(items,p,6))}</article>`,
+        `<article class="info">${p.body}<p class="muted">${t("Updated 23 October 2026 · Denny Lim")}</p><h2>${t("Related activities")}</h2>${cards(related(items,p,6))}</article>`,
       p.preset,
     );
   await emit(
@@ -287,7 +287,7 @@ for (const lang of langs) {
     "activities/",
     t("All activities"),
     t(descKey),
-    hero(t("All activities"), t(descKey)) + `<label for="activity-search">${t("Search activities")}</label><input type="search" id="activity-search" aria-controls="activity-catalog" autocomplete="off"><p id="activity-count" role="status">${items.length} / ${items.length}</p><div id="activity-catalog">${cards(items)}</div>`,
+    hero(t("All activities"), t(descKey)) + `<label for="activity-search">${t("Search activities")}</label><input type="search" id="activity-search" aria-controls="activity-catalog" autocomplete="off"><p id="activity-count" role="status">${items.length} / ${items.length}</p><div id="activity-catalog">${cards([...items.slice(-100),...items.slice(0,-100)])}</div>`,
   );
   await emit(
     lang,
@@ -403,4 +403,5 @@ console.log(
 
 await writeFile("dist/activity-manifest.json", json({activities: catalog("en").map(p=>p.path)}));
 
+versionModules("dist");
 versionStyles("dist", ["app.js", "analytics.js"]);

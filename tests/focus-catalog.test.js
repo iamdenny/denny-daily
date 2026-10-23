@@ -2,12 +2,12 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { packs, focusPacks } from '../src/packs.js';
 import { challenge, countries, practiceCountries } from '../src/logic.js';
-test('100 unique practice activities, focus flag always appears first with valid distinct choices', () => {
- assert.ok(packs.length>=100);
+test('200 unique practice activities, focus flag always appears first with valid distinct choices', () => {
+ assert.ok(packs.length===200);
  assert.equal(new Set(packs.map(p=>p.id)).size,packs.length);
- assert.equal(new Set(practiceCountries.map(c=>c[0])).size,92);
+ assert.equal(new Set(practiceCountries.map(c=>c[0])).size,192);
  assert.equal(countries.length,40);
- assert.equal(practiceCountries.length,92);
+ assert.equal(practiceCountries.length,192);
  for (const p of focusPacks) for (const day of ['2026-10-23','2030-01-01']) {
   const questions=challenge(day,p.codes,p.focusCode);
   assert.equal(questions.length,5);

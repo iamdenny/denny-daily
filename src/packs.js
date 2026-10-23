@@ -1,3 +1,4 @@
+import { flagExpansion } from "./flag-expansion.js";
 import { practiceCountries } from "./logic.js";
 export const packs = [
   {
@@ -61,7 +62,9 @@ export const packs = [
 // Country-specific practice always includes its focus flag. The original daily pool is unchanged.
 export const focusPacks = practiceCountries.map(([code, name]) => {
   const regional = packs.find(pack => pack.codes?.includes(code));
-  const codes = [...new Set([code, ...(regional?.codes || ["US", "BR", "FR", "EG", "JP"])])];
-  return { id: "focus-" + code.toLowerCase(), name, focusCode: code, codes };
+  const region = flagExpansion.find(p => p.code === code)?.region;
+  const nearby = region ? flagExpansion.filter(p => p.region === region && p.code !== code).map(p=>p.code).slice(0,7) : null;
+  const codes = [...new Set([code, ...(nearby || regional?.codes || ["US", "BR", "FR", "EG", "JP"])])];
+  return { id: "focus-" + code.toLowerCase(), name, focusCode: code, codes, region: region || regional?.id };
 });
 packs.push(...focusPacks);

@@ -232,7 +232,7 @@ export function related(items, current, limit = 6) {
   const key = p => p.slug || p.path;
   const tokens = value => new Set(value.split(/[-/]/).filter(x=>x && !["tools","practice","focus","vs","player","wheel","typing","sentences","punctuation","draw","story","prompts","league","knockout","team","bingo","word","search"].includes(x)));
   const target = tokens(key(current));
-  const score = p => [...tokens(key(p))].reduce((n,x)=>n+(target.has(x)? (/^\d+$/.test(x)?3:2):0),0) + (current.mode && p.mode===current.mode ? 1:0);
+  const score = p => [...tokens(key(p))].reduce((n,x)=>n+(target.has(x)? (/^\d+$/.test(x)?3:2):0),0) + (current.mode && p.mode===current.mode ? 1:0) + (current.group && p.group===current.group ? 5:0);
   return items.filter(p=>key(p)!==key(current)).map((p,i)=>({p,i,score:score(p)})).sort((a,b)=>b.score-a.score||a.i-b.i).slice(0,limit).map(x=>x.p);
 }
 export function discovery(kind, lang, items, href) {
