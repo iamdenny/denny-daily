@@ -3,6 +3,7 @@ import assert from "node:assert/strict";
 import { readFile } from "node:fs/promises";
 import {
   analyticsChoice,
+  quizPayload,
   safePage,
   validMeasurement,
 } from "../src/analytics.js";
@@ -52,4 +53,14 @@ test("practice packs draw five unique answers and only use their region", () => 
           for (const c of q.options) assert(pack.codes.includes(c[0]));
       }
     }
+});
+
+test("quiz milestones require consent and omit answer and share-link data", () => {
+  const url = "https://daily.iamdenny.com/ko/?email=private#answers=secret";
+  for (const choice of [null, "denied"]) assert.equal(quizPayload("start_quiz", choice, true, url, "ko"), null);
+  assert.equal(quizPayload("finish_quiz", "granted", false, url, "ko"), null);
+  assert.equal(quizPayload("private_answer", "granted", true, url, "ko"), null);
+  for (const event of ["start_quiz", "finish_quiz"]) assert.deepEqual(quizPayload(event, "granted", true, url, "ko"), {
+    event, params: { tool: "daily", page_location: "https://daily.iamdenny.com/ko/", language: "ko" }
+  });
 });

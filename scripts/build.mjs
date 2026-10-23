@@ -403,4 +403,4 @@ console.log(
 
 await writeFile("dist/activity-manifest.json", json({activities: catalog("en").map(p=>p.path)}));
 
-versionStyles("dist");
+versionStyles("dist", ["app.js", "analytics.js"]);

@@ -99,6 +99,7 @@ function render() {
           b.className = "wrong";
         b.addEventListener("click", () => {
           if (!syncDay() || reveal) return;
+          if (state.answers.length === 0) window.dennyTrack?.("start_quiz");
           state.answers.push(c[0]);
           reveal = true;
           save();
@@ -124,7 +125,8 @@ function render() {
   $("#best").textContent = s.best + "/5";
 }
 $("#next").addEventListener("click", () => {
-  if (!syncDay()) return;
+  if (!syncDay() || !reveal) return;
+  if (state.answers.length === 5) window.dennyTrack?.("finish_quiz");
   reveal = false;
   render();
   if (state.answers.length < 5) $("#answers button").focus();

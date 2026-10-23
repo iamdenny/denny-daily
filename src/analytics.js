@@ -21,6 +21,10 @@ export function safePage(raw) {
 export function validMeasurement(id) {
   return /^G-[A-Z0-9]{6,15}$/.test(id || "");
 }
+export function quizPayload(event, choice, loaded, url, language) {
+  if (choice !== "granted" || !loaded || !["start_quiz", "finish_quiz"].includes(event)) return null;
+  return { event, params: { tool: "daily", page_location: safePage(url), language } };
+}
 if (typeof document !== "undefined") {
   const config = JSON.parse(document.querySelector("#ad-config").textContent),
     id = location.hostname === config.siteDomain ? config.measurementId : null,
@@ -39,6 +43,10 @@ if (typeof document !== "undefined") {
     window.dataLayer ||= [];
     window.dataLayer.push(arguments);
   }
+  window.dennyTrack = (event) => {
+    const payload = quizPayload(event, choice, loaded, location.href, document.documentElement.lang);
+    if (payload) send("event", payload.event, payload.params);
+  };
   function apply() {
     if (!validMeasurement(id)) return;
     window["ga-disable-" + id] = choice !== "granted";

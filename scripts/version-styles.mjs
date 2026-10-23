@@ -1,11 +1,11 @@
 import fs from "node:fs";
 import path from "node:path";
 import { createHash } from "node:crypto";
-export function versionStyles(root) {
-  const names = ["style.css", "promotions.css", "workspace.css"].filter(name => fs.existsSync(path.join(root, name)));
+export function versionStyles(root, entryScripts = []) {
+  const names = ["style.css", "promotions.css", "workspace.css", ...entryScripts].filter(name => fs.existsSync(path.join(root, name)));
   const versions = names.map(name => {
     const bytes = fs.readFileSync(path.join(root, name));
-    const version = name.replace(".css", `.${createHash("sha256").update(bytes).digest("hex").slice(0, 12)}.css`);
+    const version = name.replace(/\.(css|js)$/, `.${createHash("sha256").update(bytes).digest("hex").slice(0, 12)}$&`);
     fs.writeFileSync(path.join(root, version), bytes);
     return [name, version];
   });
@@ -15,7 +15,7 @@ export function versionStyles(root) {
       if (entry.isDirectory()) visit(file);
       else if (entry.name.endsWith(".html")) {
         let html = fs.readFileSync(file, "utf8");
-        for (const [name, version] of versions) html = html.replaceAll(`href="/${name}"`, `href="/${version}"`);
+        for (const [name, version] of versions) html = html.replaceAll(`href="/${name}"`, `href="/${version}"`).replaceAll(`src="/${name}"`, `src="/${version}"`);
         fs.writeFileSync(file, html);
       }
     }
