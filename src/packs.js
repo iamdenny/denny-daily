@@ -61,7 +61,7 @@ export const packs = [
 // Country-specific practice always includes its focus flag. The original daily pool is unchanged.
 export const focusPacks = practiceCountries.map(([code, name]) => {
   const regional = packs.find(pack => pack.codes?.includes(code));
-  const codes = [...new Set([code, ...(regional?.codes || ["JP", "KR", "CN", "IN", "TH"])])];
+  const codes = [...new Set([code, ...(regional?.codes || ["US", "BR", "FR", "EG", "JP"])])];
   return { id: "focus-" + code.toLowerCase(), name, focusCode: code, codes };
 });
 packs.push(...focusPacks);

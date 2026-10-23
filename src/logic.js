@@ -40,7 +40,9 @@ export const countries = [
   ["UA", "Ukraine"],
   ["PL", "Poland"],
 ];
-export const practiceCountries = [...countries, ["MN", "Mongolia"], ["TW", "Taiwan"]];
+export const additionalPracticeCodes = ["AT", "BE", "NL", "IE", "IS", "CZ", "SK", "HU", "RO", "BG", "HR", "SI", "RS", "BA", "ME", "AL", "MK", "EE", "LV", "LT", "LU", "MT", "CY", "GE", "AM", "AZ", "KZ", "UZ", "NP", "BD", "PK", "LK", "BT", "MV", "KH", "LA", "MM", "BN", "TL", "AF", "IR", "IQ", "JO", "LB", "OM", "QA", "AE", "SA", "TN", "DZ"];
+const englishRegions = new Intl.DisplayNames(["en"], { type: "region" });
+export const practiceCountries = [...countries, ["MN", "Mongolia"], ["TW", "Taiwan"], ...additionalPracticeCodes.map(code => [code, englishRegions.of(code)])];
 export function emoji(code) {
   return [...code]
     .map((c) => String.fromCodePoint(c.charCodeAt(0) + 127397))
