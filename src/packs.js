@@ -68,3 +68,6 @@ export const focusPacks = practiceCountries.map(([code, name]) => {
   return { id: "focus-" + code.toLowerCase(), name, focusCode: code, codes, region: region || regional?.id };
 });
 packs.push(...focusPacks);
+
+import { reviewPacks } from "./review-packs.js";
+packs.push(...reviewPacks);

@@ -2,8 +2,8 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import { packs, focusPacks } from '../src/packs.js';
 import { challenge, countries, practiceCountries } from '../src/logic.js';
-test('200 unique practice activities, focus flag always appears first with valid distinct choices', () => {
- assert.ok(packs.length===200);
+test('300 unique practice activities, focus flag always appears first with valid distinct choices', () => {
+ assert.ok(packs.length===300);
  assert.equal(new Set(packs.map(p=>p.id)).size,packs.length);
  assert.equal(new Set(practiceCountries.map(c=>c[0])).size,192);
  assert.equal(countries.length,40);

@@ -1174,5 +1174,605 @@
     "ko": "2026년 10월 23일 업데이트 · Denny Lim",
     "ja": "2026年10月23日更新 · Denny Lim",
     "es": "Actualizado el 23 de octubre de 2026 · Denny Lim"
+  },
+  "World review 001 · Israel / Mauritania / Tonga / China / Costa Rica": {
+    "en": "World review 001 · Israel / Mauritania / Tonga / China / Costa Rica",
+    "ko": "세계 복습 001 · 이스라엘 / 모리타니 / 통가 / 중국 / 코스타리카",
+    "ja": "世界の復習 001 · イスラエル / モーリタニア / トンガ / 中国 / コスタリカ",
+    "es": "Repaso mundial 001 · Israel / Mauritania / Tonga / China / Costa Rica"
+  },
+  "World review 002 · San Marino / Uganda / Micronesia / Honduras / Albania": {
+    "en": "World review 002 · San Marino / Uganda / Micronesia / Honduras / Albania",
+    "ko": "세계 복습 002 · 산마리노 / 우간다 / 미크로네시아 / 온두라스 / 알바니아",
+    "ja": "世界の復習 002 · サンマリノ / ウガンダ / ミクロネシア連邦 / ホンジュラス / アルバニア",
+    "es": "Repaso mundial 002 · San Marino / Uganda / Micronesia / Honduras / Albania"
+  },
+  "World review 003 · Seychelles / Uzbekistan / Turkmenistan / Namibia / Mongolia": {
+    "en": "World review 003 · Seychelles / Uzbekistan / Turkmenistan / Namibia / Mongolia",
+    "ko": "세계 복습 003 · 세이셸 / 우즈베키스탄 / 투르크메니스탄 / 나미비아 / 몽골",
+    "ja": "世界の復習 003 · セーシェル / ウズベキスタン / トルクメニスタン / ナミビア / モンゴル",
+    "es": "Repaso mundial 003 · Seychelles / Uzbekistán / Turkmenistán / Namibia / Mongolia"
+  },
+  "World review 004 · Samoa / Nigeria / Madagascar / Algeria / Chile": {
+    "en": "World review 004 · Samoa / Nigeria / Madagascar / Algeria / Chile",
+    "ko": "세계 복습 004 · 사모아 / 나이지리아 / 마다가스카르 / 알제리 / 칠레",
+    "ja": "世界の復習 004 · サモア / ナイジェリア / マダガスカル / アルジェリア / チリ",
+    "es": "Repaso mundial 004 · Samoa / Nigeria / Madagascar / Argelia / Chile"
+  },
+  "World review 005 · Saudi Arabia / Dominica / Benin / Singapore / South Korea": {
+    "en": "World review 005 · Saudi Arabia / Dominica / Benin / Singapore / South Korea",
+    "ko": "세계 복습 005 · 사우디아라비아 / 도미니카 / 베냉 / 싱가포르 / 대한민국",
+    "ja": "世界の復習 005 · サウジアラビア / ドミニカ国 / ベナン / シンガポール / 韓国",
+    "es": "Repaso mundial 005 · Arabia Saudí / Dominica / Benín / Singapur / Corea del Sur"
+  },
+  "World review 006 · St. Vincent & Grenadines / Bhutan / Bolivia / Tuvalu / Kiribati": {
+    "en": "World review 006 · St. Vincent & Grenadines / Bhutan / Bolivia / Tuvalu / Kiribati",
+    "ko": "세계 복습 006 · 세인트빈센트그레나딘 / 부탄 / 볼리비아 / 투발루 / 키리바시",
+    "ja": "世界の復習 006 · セントビンセント及びグレナディーン諸島 / ブータン / ボリビア / ツバル / キリバス",
+    "es": "Repaso mundial 006 · San Vicente y las Granadinas / Bután / Bolivia / Tuvalu / Kiribati"
+  },
+  "World review 007 · Bosnia & Herzegovina / Malta / Egypt / Myanmar (Burma) / Maldives": {
+    "en": "World review 007 · Bosnia & Herzegovina / Malta / Egypt / Myanmar (Burma) / Maldives",
+    "ko": "세계 복습 007 · 보스니아 헤르체고비나 / 몰타 / 이집트 / 미얀마 / 몰디브",
+    "ja": "世界の復習 007 · ボスニア・ヘルツェゴビナ / マルタ / エジプト / ミャンマー (ビルマ) / モルディブ",
+    "es": "Repaso mundial 007 · Bosnia y Herzegovina / Malta / Egipto / Myanmar (Birmania) / Maldivas"
+  },
+  "World review 008 · Gambia / Botswana / Bulgaria / Trinidad & Tobago / Fiji": {
+    "en": "World review 008 · Gambia / Botswana / Bulgaria / Trinidad & Tobago / Fiji",
+    "ko": "세계 복습 008 · 감비아 / 보츠와나 / 불가리아 / 트리니다드 토바고 / 피지",
+    "ja": "世界の復習 008 · ガンビア / ボツワナ / ブルガリア / トリニダード・トバゴ / フィジー",
+    "es": "Repaso mundial 008 · Gambia / Botsuana / Bulgaria / Trinidad y Tobago / Fiyi"
+  },
+  "World review 009 · Liberia / Zambia / Tajikistan / El Salvador / Hungary": {
+    "en": "World review 009 · Liberia / Zambia / Tajikistan / El Salvador / Hungary",
+    "ko": "세계 복습 009 · 라이베리아 / 잠비아 / 타지키스탄 / 엘살바도르 / 헝가리",
+    "ja": "世界の復習 009 · リベリア / ザンビア / タジキスタン / エルサルバドル / ハンガリー",
+    "es": "Repaso mundial 009 · Liberia / Zambia / Tayikistán / El Salvador / Hungría"
+  },
+  "World review 010 · Colombia / South Africa / Montenegro / Greece / Croatia": {
+    "en": "World review 010 · Colombia / South Africa / Montenegro / Greece / Croatia",
+    "ko": "세계 복습 010 · 콜롬비아 / 남아프리카 / 몬테네그로 / 그리스 / 크로아티아",
+    "ja": "世界の復習 010 · コロンビア / 南アフリカ / モンテネグロ / ギリシャ / クロアチア",
+    "es": "Repaso mundial 010 · Colombia / Sudáfrica / Montenegro / Grecia / Croacia"
+  },
+  "World review 011 · Taiwan / Qatar / Canada / Congo - Kinshasa / Antigua & Barbuda": {
+    "en": "World review 011 · Taiwan / Qatar / Canada / Congo - Kinshasa / Antigua & Barbuda",
+    "ko": "세계 복습 011 · 대만 / 카타르 / 캐나다 / 콩고-킨샤사 / 앤티가 바부다",
+    "ja": "世界の復習 011 · 台湾 / カタール / カナダ / コンゴ民主共和国(キンシャサ) / アンティグア・バーブーダ",
+    "es": "Repaso mundial 011 · Taiwán / Catar / Canadá / República Democrática del Congo / Antigua y Barbuda"
+  },
+  "World review 012 · Chad / Palau / Cyprus / Romania / Paraguay": {
+    "en": "World review 012 · Chad / Palau / Cyprus / Romania / Paraguay",
+    "ko": "세계 복습 012 · 차드 / 팔라우 / 키프로스 / 루마니아 / 파라과이",
+    "ja": "世界の復習 012 · チャド / パラオ / キプロス / ルーマニア / パラグアイ",
+    "es": "Repaso mundial 012 · Chad / Palaos / Chipre / Rumanía / Paraguay"
+  },
+  "World review 013 · Tunisia / Bahamas / Mauritius / Switzerland / Denmark": {
+    "en": "World review 013 · Tunisia / Bahamas / Mauritius / Switzerland / Denmark",
+    "ko": "세계 복습 013 · 튀니지 / 바하마 / 모리셔스 / 스위스 / 덴마크",
+    "ja": "世界の復習 013 · チュニジア / バハマ / モーリシャス / スイス / デンマーク",
+    "es": "Repaso mundial 013 · Túnez / Bahamas / Mauricio / Suiza / Dinamarca"
+  },
+  "World review 014 · Malawi / Nepal / Barbados / New Zealand / Burkina Faso": {
+    "en": "World review 014 · Malawi / Nepal / Barbados / New Zealand / Burkina Faso",
+    "ko": "세계 복습 014 · 말라위 / 네팔 / 바베이도스 / 뉴질랜드 / 부르키나파소",
+    "ja": "世界の復習 014 · マラウイ / ネパール / バルバドス / ニュージーランド / ブルキナファソ",
+    "es": "Repaso mundial 014 · Malaui / Nepal / Barbados / Nueva Zelanda / Burkina Faso"
+  },
+  "World review 015 · Oman / Slovakia / Libya / United States / Andorra": {
+    "en": "World review 015 · Oman / Slovakia / Libya / United States / Andorra",
+    "ko": "세계 복습 015 · 오만 / 슬로바키아 / 리비아 / 미국 / 안도라",
+    "ja": "世界の復習 015 · オマーン / スロバキア / リビア / アメリカ合衆国 / アンドラ",
+    "es": "Repaso mundial 015 · Omán / Eslovaquia / Libia / Estados Unidos / Andorra"
+  },
+  "World review 016 · Cuba / Netherlands / Iraq / Laos / Thailand": {
+    "en": "World review 016 · Cuba / Netherlands / Iraq / Laos / Thailand",
+    "ko": "세계 복습 016 · 쿠바 / 네덜란드 / 이라크 / 라오스 / 태국",
+    "ja": "世界の復習 016 · キューバ / オランダ / イラク / ラオス / タイ",
+    "es": "Repaso mundial 016 · Cuba / Países Bajos / Irak / Laos / Tailandia"
+  },
+  "World review 017 · Marshall Islands / Solomon Islands / Iran / Dominican Republic / Suriname": {
+    "en": "World review 017 · Marshall Islands / Solomon Islands / Iran / Dominican Republic / Suriname",
+    "ko": "세계 복습 017 · 마셜 제도 / 솔로몬 제도 / 이란 / 도미니카 공화국 / 수리남",
+    "ja": "世界の復習 017 · マーシャル諸島 / ソロモン諸島 / イラン / ドミニカ共和国 / スリナム",
+    "es": "Repaso mundial 017 · Islas Marshall / Islas Salomón / Irán / República Dominicana / Surinam"
+  },
+  "World review 018 · Peru / Papua New Guinea / Uruguay / Yemen / Togo": {
+    "en": "World review 018 · Peru / Papua New Guinea / Uruguay / Yemen / Togo",
+    "ko": "세계 복습 018 · 페루 / 파푸아뉴기니 / 우루과이 / 예멘 / 토고",
+    "ja": "世界の復習 018 · ペルー / パプアニューギニア / ウルグアイ / イエメン / トーゴ",
+    "es": "Repaso mundial 018 · Perú / Papúa Nueva Guinea / Uruguay / Yemen / Togo"
+  },
+  "World review 019 · Sri Lanka / Venezuela / North Macedonia / Niger / Russia": {
+    "en": "World review 019 · Sri Lanka / Venezuela / North Macedonia / Niger / Russia",
+    "ko": "세계 복습 019 · 스리랑카 / 베네수엘라 / 북마케도니아 / 니제르 / 러시아",
+    "ja": "世界の復習 019 · スリランカ / ベネズエラ / 北マケドニア / ニジェール / ロシア",
+    "es": "Repaso mundial 019 · Sri Lanka / Venezuela / Macedonia del Norte / Níger / Rusia"
+  },
+  "World review 020 · Philippines / Poland / St. Lucia / South Sudan / Burundi": {
+    "en": "World review 020 · Philippines / Poland / St. Lucia / South Sudan / Burundi",
+    "ko": "세계 복습 020 · 필리핀 / 폴란드 / 세인트루시아 / 남수단 / 부룬디",
+    "ja": "世界の復習 020 · フィリピン / ポーランド / セントルシア / 南スーダン / ブルンジ",
+    "es": "Repaso mundial 020 · Filipinas / Polonia / Santa Lucía / Sudán del Sur / Burundi"
+  },
+  "World review 021 · Afghanistan / Comoros / Belgium / Germany / Somalia": {
+    "en": "World review 021 · Afghanistan / Comoros / Belgium / Germany / Somalia",
+    "ko": "세계 복습 021 · 아프가니스탄 / 코모로 / 벨기에 / 독일 / 소말리아",
+    "ja": "世界の復習 021 · アフガニスタン / コモロ / ベルギー / ドイツ / ソマリア",
+    "es": "Repaso mundial 021 · Afganistán / Comoras / Bélgica / Alemania / Somalia"
+  },
+  "World review 022 · Norway / Guinea-Bissau / Pakistan / Bangladesh / Spain": {
+    "en": "World review 022 · Norway / Guinea-Bissau / Pakistan / Bangladesh / Spain",
+    "ko": "세계 복습 022 · 노르웨이 / 기니비사우 / 파키스탄 / 방글라데시 / 스페인",
+    "ja": "世界の復習 022 · ノルウェー / ギニアビサウ / パキスタン / バングラデシュ / スペイン",
+    "es": "Repaso mundial 022 · Noruega / Guinea-Bisáu / Pakistán / Bangladés / España"
+  },
+  "World review 023 · Zimbabwe / Cameroon / Rwanda / Malaysia / Lithuania": {
+    "en": "World review 023 · Zimbabwe / Cameroon / Rwanda / Malaysia / Lithuania",
+    "ko": "세계 복습 023 · 짐바브웨 / 카메룬 / 르완다 / 말레이시아 / 리투아니아",
+    "ja": "世界の復習 023 · ジンバブエ / カメルーン / ルワンダ / マレーシア / リトアニア",
+    "es": "Repaso mundial 023 · Zimbabue / Camerún / Ruanda / Malasia / Lituania"
+  },
+  "World review 024 · Moldova / Kazakhstan / Sierra Leone / Sudan / Kyrgyzstan": {
+    "en": "World review 024 · Moldova / Kazakhstan / Sierra Leone / Sudan / Kyrgyzstan",
+    "ko": "세계 복습 024 · 몰도바 / 카자흐스탄 / 시에라리온 / 수단 / 키르기스스탄",
+    "ja": "世界の復習 024 · モルドバ / カザフスタン / シエラレオネ / スーダン / キルギス",
+    "es": "Repaso mundial 024 · Moldavia / Kazajistán / Sierra Leona / Sudán / Kirguistán"
+  },
+  "World review 025 · Kuwait / Ghana / Timor-Leste / Vanuatu / Gabon": {
+    "en": "World review 025 · Kuwait / Ghana / Timor-Leste / Vanuatu / Gabon",
+    "ko": "세계 복습 025 · 쿠웨이트 / 가나 / 동티모르 / 바누아투 / 가봉",
+    "ja": "世界の復習 025 · クウェート / ガーナ / 東ティモール / バヌアツ / ガボン",
+    "es": "Repaso mundial 025 · Kuwait / Ghana / Timor-Leste / Vanuatu / Gabón"
+  },
+  "World review 026 · Grenada / Haiti / Italy / Eritrea / Tanzania": {
+    "en": "World review 026 · Grenada / Haiti / Italy / Eritrea / Tanzania",
+    "ko": "세계 복습 026 · 그레나다 / 아이티 / 이탈리아 / 에리트리아 / 탄자니아",
+    "ja": "世界の復習 026 · グレナダ / ハイチ / イタリア / エリトリア / タンザニア",
+    "es": "Repaso mundial 026 · Granada / Haití / Italia / Eritrea / Tanzania"
+  },
+  "World review 027 · Ukraine / Iceland / Georgia / Mexico / Panama": {
+    "en": "World review 027 · Ukraine / Iceland / Georgia / Mexico / Panama",
+    "ko": "세계 복습 027 · 우크라이나 / 아이슬란드 / 조지아 / 멕시코 / 파나마",
+    "ja": "世界の復習 027 · ウクライナ / アイスランド / ジョージア / メキシコ / パナマ",
+    "es": "Repaso mundial 027 · Ucrania / Islandia / Georgia / México / Panamá"
+  },
+  "World review 028 · Nicaragua / Senegal / Central African Republic / Bahrain / Guatemala": {
+    "en": "World review 028 · Nicaragua / Senegal / Central African Republic / Bahrain / Guatemala",
+    "ko": "세계 복습 028 · 니카라과 / 세네갈 / 중앙 아프리카 공화국 / 바레인 / 과테말라",
+    "ja": "世界の復習 028 · ニカラグア / セネガル / 中央アフリカ共和国 / バーレーン / グアテマラ",
+    "es": "Repaso mundial 028 · Nicaragua / Senegal / República Centroafricana / Baréin / Guatemala"
+  },
+  "World review 029 · Ireland / Cape Verde / Brazil / Armenia / United Arab Emirates": {
+    "en": "World review 029 · Ireland / Cape Verde / Brazil / Armenia / United Arab Emirates",
+    "ko": "세계 복습 029 · 아일랜드 / 카보베르데 / 브라질 / 아르메니아 / 아랍에미리트",
+    "ja": "世界の復習 029 · アイルランド / カーボベルデ / ブラジル / アルメニア / アラブ首長国連邦",
+    "es": "Repaso mundial 029 · Irlanda / Cabo Verde / Brasil / Armenia / Emiratos Árabes Unidos"
+  },
+  "World review 030 · Finland / Ethiopia / Nauru / Lesotho / St. Kitts & Nevis": {
+    "en": "World review 030 · Finland / Ethiopia / Nauru / Lesotho / St. Kitts & Nevis",
+    "ko": "세계 복습 030 · 핀란드 / 에티오피아 / 나우루 / 레소토 / 세인트키츠 네비스",
+    "ja": "世界の復習 030 · フィンランド / エチオピア / ナウル / レソト / セントクリストファー・ネーヴィス",
+    "es": "Repaso mundial 030 · Finlandia / Etiopía / Nauru / Lesoto / San Cristóbal y Nieves"
+  },
+  "World review 031 · Cambodia / Lebanon / France / Sweden / Indonesia": {
+    "en": "World review 031 · Cambodia / Lebanon / France / Sweden / Indonesia",
+    "ko": "세계 복습 031 · 캄보디아 / 레바논 / 프랑스 / 스웨덴 / 인도네시아",
+    "ja": "世界の復習 031 · カンボジア / レバノン / フランス / スウェーデン / インドネシア",
+    "es": "Repaso mundial 031 · Camboya / Líbano / Francia / Suecia / Indonesia"
+  },
+  "World review 032 · Mozambique / Eswatini / Mali / Guinea / Guyana": {
+    "en": "World review 032 · Mozambique / Eswatini / Mali / Guinea / Guyana",
+    "ko": "세계 복습 032 · 모잠비크 / 에스와티니 / 말리 / 기니 / 가이아나",
+    "ja": "世界の復習 032 · モザンビーク / エスワティニ / マリ / ギニア / ガイアナ",
+    "es": "Repaso mundial 032 · Mozambique / Esuatini / Mali / Guinea / Guyana"
+  },
+  "World review 033 · Portugal / Türkiye / Equatorial Guinea / Belarus / Congo - Brazzaville": {
+    "en": "World review 033 · Portugal / Türkiye / Equatorial Guinea / Belarus / Congo - Brazzaville",
+    "ko": "세계 복습 033 · 포르투갈 / 튀르키예 / 적도 기니 / 벨라루스 / 콩고-브라자빌",
+    "ja": "世界の復習 033 · ポルトガル / トルコ / 赤道ギニア / ベラルーシ / コンゴ共和国(ブラザビル)",
+    "es": "Repaso mundial 033 · Portugal / Turquía / Guinea Ecuatorial / Bielorrusia / Congo"
+  },
+  "World review 034 · Luxembourg / Estonia / Australia / India / Azerbaijan": {
+    "en": "World review 034 · Luxembourg / Estonia / Australia / India / Azerbaijan",
+    "ko": "세계 복습 034 · 룩셈부르크 / 에스토니아 / 오스트레일리아 / 인도 / 아제르바이잔",
+    "ja": "世界の復習 034 · ルクセンブルク / エストニア / オーストラリア / インド / アゼルバイジャン",
+    "es": "Repaso mundial 034 · Luxemburgo / Estonia / Australia / India / Azerbaiyán"
+  },
+  "World review 035 · Brunei / Kenya / Djibouti / Ecuador / Côte d’Ivoire": {
+    "en": "World review 035 · Brunei / Kenya / Djibouti / Ecuador / Côte d’Ivoire",
+    "ko": "세계 복습 035 · 브루나이 / 케냐 / 지부티 / 에콰도르 / 코트디부아르",
+    "ja": "世界の復習 035 · ブルネイ / ケニア / ジブチ / エクアドル / コートジボワール",
+    "es": "Repaso mundial 035 · Brunéi / Kenia / Yibuti / Ecuador / Côte d’Ivoire"
+  },
+  "World review 036 · Slovenia / Argentina / United Kingdom / Latvia / Monaco": {
+    "en": "World review 036 · Slovenia / Argentina / United Kingdom / Latvia / Monaco",
+    "ko": "세계 복습 036 · 슬로베니아 / 아르헨티나 / 영국 / 라트비아 / 모나코",
+    "ja": "世界の復習 036 · スロベニア / アルゼンチン / イギリス / ラトビア / モナコ",
+    "es": "Repaso mundial 036 · Eslovenia / Argentina / Reino Unido / Letonia / Mónaco"
+  },
+  "World review 037 · Liechtenstein / Austria / São Tomé & Príncipe / Angola / Serbia": {
+    "en": "World review 037 · Liechtenstein / Austria / São Tomé & Príncipe / Angola / Serbia",
+    "ko": "세계 복습 037 · 리히텐슈타인 / 오스트리아 / 상투메 프린시페 / 앙골라 / 세르비아",
+    "ja": "世界の復習 037 · リヒテンシュタイン / オーストリア / サントメ・プリンシペ / アンゴラ / セルビア",
+    "es": "Repaso mundial 037 · Liechtenstein / Austria / Santo Tomé y Príncipe / Angola / Serbia"
+  },
+  "World review 038 · Vietnam / Jamaica / Czechia / Belize / Morocco": {
+    "en": "World review 038 · Vietnam / Jamaica / Czechia / Belize / Morocco",
+    "ko": "세계 복습 038 · 베트남 / 자메이카 / 체코 / 벨리즈 / 모로코",
+    "ja": "世界の復習 038 · ベトナム / ジャマイカ / チェコ / ベリーズ / モロッコ",
+    "es": "Repaso mundial 038 · Vietnam / Jamaica / Chequia / Belice / Marruecos"
+  },
+  "World review 039 · Jordan / Japan / Mauritania / St. Kitts & Nevis / Congo - Kinshasa": {
+    "en": "World review 039 · Jordan / Japan / Mauritania / St. Kitts & Nevis / Congo - Kinshasa",
+    "ko": "세계 복습 039 · 요르단 / 일본 / 모리타니 / 세인트키츠 네비스 / 콩고-킨샤사",
+    "ja": "世界の復習 039 · ヨルダン / 日本 / モーリタニア / セントクリストファー・ネーヴィス / コンゴ民主共和国(キンシャサ)",
+    "es": "Repaso mundial 039 · Jordania / Japón / Mauritania / San Cristóbal y Nieves / República Democrática del Congo"
+  },
+  "World review 040 · Armenia / Nicaragua / Dominica / Madagascar / Monaco": {
+    "en": "World review 040 · Armenia / Nicaragua / Dominica / Madagascar / Monaco",
+    "ko": "세계 복습 040 · 아르메니아 / 니카라과 / 도미니카 / 마다가스카르 / 모나코",
+    "ja": "世界の復習 040 · アルメニア / ニカラグア / ドミニカ国 / マダガスカル / モナコ",
+    "es": "Repaso mundial 040 · Armenia / Nicaragua / Dominica / Madagascar / Mónaco"
+  },
+  "World review 041 · Micronesia / Sweden / Nepal / Kuwait / Bhutan": {
+    "en": "World review 041 · Micronesia / Sweden / Nepal / Kuwait / Bhutan",
+    "ko": "세계 복습 041 · 미크로네시아 / 스웨덴 / 네팔 / 쿠웨이트 / 부탄",
+    "ja": "世界の復習 041 · ミクロネシア連邦 / スウェーデン / ネパール / クウェート / ブータン",
+    "es": "Repaso mundial 041 · Micronesia / Suecia / Nepal / Kuwait / Bután"
+  },
+  "World review 042 · Iraq / Panama / Norway / Honduras / Antigua & Barbuda": {
+    "en": "World review 042 · Iraq / Panama / Norway / Honduras / Antigua & Barbuda",
+    "ko": "세계 복습 042 · 이라크 / 파나마 / 노르웨이 / 온두라스 / 앤티가 바부다",
+    "ja": "世界の復習 042 · イラク / パナマ / ノルウェー / ホンジュラス / アンティグア・バーブーダ",
+    "es": "Repaso mundial 042 · Irak / Panamá / Noruega / Honduras / Antigua y Barbuda"
+  },
+  "World review 043 · Somalia / Gabon / India / Mongolia / Solomon Islands": {
+    "en": "World review 043 · Somalia / Gabon / India / Mongolia / Solomon Islands",
+    "ko": "세계 복습 043 · 소말리아 / 가봉 / 인도 / 몽골 / 솔로몬 제도",
+    "ja": "世界の復習 043 · ソマリア / ガボン / インド / モンゴル / ソロモン諸島",
+    "es": "Repaso mundial 043 · Somalia / Gabón / India / Mongolia / Islas Salomón"
+  },
+  "World review 044 · St. Lucia / Malaysia / Switzerland / Vietnam / Ukraine": {
+    "en": "World review 044 · St. Lucia / Malaysia / Switzerland / Vietnam / Ukraine",
+    "ko": "세계 복습 044 · 세인트루시아 / 말레이시아 / 스위스 / 베트남 / 우크라이나",
+    "ja": "世界の復習 044 · セントルシア / マレーシア / スイス / ベトナム / ウクライナ",
+    "es": "Repaso mundial 044 · Santa Lucía / Malasia / Suiza / Vietnam / Ucrania"
+  },
+  "World review 045 · Guinea-Bissau / Andorra / Cambodia / Maldives / Jordan": {
+    "en": "World review 045 · Guinea-Bissau / Andorra / Cambodia / Maldives / Jordan",
+    "ko": "세계 복습 045 · 기니비사우 / 안도라 / 캄보디아 / 몰디브 / 요르단",
+    "ja": "世界の復習 045 · ギニアビサウ / アンドラ / カンボジア / モルディブ / ヨルダン",
+    "es": "Repaso mundial 045 · Guinea-Bisáu / Andorra / Camboya / Maldivas / Jordania"
+  },
+  "World review 046 · Cyprus / Slovenia / Taiwan / Papua New Guinea / Singapore": {
+    "en": "World review 046 · Cyprus / Slovenia / Taiwan / Papua New Guinea / Singapore",
+    "ko": "세계 복습 046 · 키프로스 / 슬로베니아 / 대만 / 파푸아뉴기니 / 싱가포르",
+    "ja": "世界の復習 046 · キプロス / スロベニア / 台湾 / パプアニューギニア / シンガポール",
+    "es": "Repaso mundial 046 · Chipre / Eslovenia / Taiwán / Papúa Nueva Guinea / Singapur"
+  },
+  "World review 047 · Mexico / China / Latvia / Kiribati / Montenegro": {
+    "en": "World review 047 · Mexico / China / Latvia / Kiribati / Montenegro",
+    "ko": "세계 복습 047 · 멕시코 / 중국 / 라트비아 / 키리바시 / 몬테네그로",
+    "ja": "世界の復習 047 · メキシコ / 中国 / ラトビア / キリバス / モンテネグロ",
+    "es": "Repaso mundial 047 · México / China / Letonia / Kiribati / Montenegro"
+  },
+  "World review 048 · New Zealand / Austria / São Tomé & Príncipe / Belize / Seychelles": {
+    "en": "World review 048 · New Zealand / Austria / São Tomé & Príncipe / Belize / Seychelles",
+    "ko": "세계 복습 048 · 뉴질랜드 / 오스트리아 / 상투메 프린시페 / 벨리즈 / 세이셸",
+    "ja": "世界の復習 048 · ニュージーランド / オーストリア / サントメ・プリンシペ / ベリーズ / セーシェル",
+    "es": "Repaso mundial 048 · Nueva Zelanda / Austria / Santo Tomé y Príncipe / Belice / Seychelles"
+  },
+  "World review 049 · Qatar / Trinidad & Tobago / Serbia / Italy / Namibia": {
+    "en": "World review 049 · Qatar / Trinidad & Tobago / Serbia / Italy / Namibia",
+    "ko": "세계 복습 049 · 카타르 / 트리니다드 토바고 / 세르비아 / 이탈리아 / 나미비아",
+    "ja": "世界の復習 049 · カタール / トリニダード・トバゴ / セルビア / イタリア / ナミビア",
+    "es": "Repaso mundial 049 · Catar / Trinidad y Tobago / Serbia / Italia / Namibia"
+  },
+  "World review 050 · Lesotho / Cuba / Cameroon / Georgia / Bolivia": {
+    "en": "World review 050 · Lesotho / Cuba / Cameroon / Georgia / Bolivia",
+    "ko": "세계 복습 050 · 레소토 / 쿠바 / 카메룬 / 조지아 / 볼리비아",
+    "ja": "世界の復習 050 · レソト / キューバ / カメルーン / ジョージア / ボリビア",
+    "es": "Repaso mundial 050 · Lesoto / Cuba / Camerún / Georgia / Bolivia"
+  },
+  "World review 051 · Iran / Libya / Luxembourg / Spain / Tonga": {
+    "en": "World review 051 · Iran / Libya / Luxembourg / Spain / Tonga",
+    "ko": "세계 복습 051 · 이란 / 리비아 / 룩셈부르크 / 스페인 / 통가",
+    "ja": "世界の復習 051 · イラン / リビア / ルクセンブルク / スペイン / トンガ",
+    "es": "Repaso mundial 051 · Irán / Libia / Luxemburgo / España / Tonga"
+  },
+  "World review 052 · South Sudan / Costa Rica / Türkiye / Oman / South Korea": {
+    "en": "World review 052 · South Sudan / Costa Rica / Türkiye / Oman / South Korea",
+    "ko": "세계 복습 052 · 남수단 / 코스타리카 / 튀르키예 / 오만 / 대한민국",
+    "ja": "世界の復習 052 · 南スーダン / コスタリカ / トルコ / オマーン / 韓国",
+    "es": "Repaso mundial 052 · Sudán del Sur / Costa Rica / Turquía / Omán / Corea del Sur"
+  },
+  "World review 053 · Indonesia / Pakistan / Slovakia / Central African Republic / Croatia": {
+    "en": "World review 053 · Indonesia / Pakistan / Slovakia / Central African Republic / Croatia",
+    "ko": "세계 복습 053 · 인도네시아 / 파키스탄 / 슬로바키아 / 중앙 아프리카 공화국 / 크로아티아",
+    "ja": "世界の復習 053 · インドネシア / パキスタン / スロバキア / 中央アフリカ共和国 / クロアチア",
+    "es": "Repaso mundial 053 · Indonesia / Pakistán / Eslovaquia / República Centroafricana / Croacia"
+  },
+  "World review 054 · Mauritius / El Salvador / Estonia / Iceland / Kyrgyzstan": {
+    "en": "World review 054 · Mauritius / El Salvador / Estonia / Iceland / Kyrgyzstan",
+    "ko": "세계 복습 054 · 모리셔스 / 엘살바도르 / 에스토니아 / 아이슬란드 / 키르기스스탄",
+    "ja": "世界の復習 054 · モーリシャス / エルサルバドル / エストニア / アイスランド / キルギス",
+    "es": "Repaso mundial 054 · Mauricio / El Salvador / Estonia / Islandia / Kirguistán"
+  },
+  "World review 055 · Eritrea / Angola / Morocco / Myanmar (Burma) / Moldova": {
+    "en": "World review 055 · Eritrea / Angola / Morocco / Myanmar (Burma) / Moldova",
+    "ko": "세계 복습 055 · 에리트리아 / 앙골라 / 모로코 / 미얀마 / 몰도바",
+    "ja": "世界の復習 055 · エリトリア / アンゴラ / モロッコ / ミャンマー (ビルマ) / モルドバ",
+    "es": "Repaso mundial 055 · Eritrea / Angola / Marruecos / Myanmar (Birmania) / Moldavia"
+  },
+  "World review 056 · Niger / Brunei / Côte d’Ivoire / Egypt / Palau": {
+    "en": "World review 056 · Niger / Brunei / Côte d’Ivoire / Egypt / Palau",
+    "ko": "세계 복습 056 · 니제르 / 브루나이 / 코트디부아르 / 이집트 / 팔라우",
+    "ja": "世界の復習 056 · ニジェール / ブルネイ / コートジボワール / エジプト / パラオ",
+    "es": "Repaso mundial 056 · Níger / Brunéi / Côte d’Ivoire / Egipto / Palaos"
+  },
+  "World review 057 · Tajikistan / Chad / Ethiopia / United Kingdom / Bangladesh": {
+    "en": "World review 057 · Tajikistan / Chad / Ethiopia / United Kingdom / Bangladesh",
+    "ko": "세계 복습 057 · 타지키스탄 / 차드 / 에티오피아 / 영국 / 방글라데시",
+    "ja": "世界の復習 057 · タジキスタン / チャド / エチオピア / イギリス / バングラデシュ",
+    "es": "Repaso mundial 057 · Tayikistán / Chad / Etiopía / Reino Unido / Bangladés"
+  },
+  "World review 058 · United Arab Emirates / Guyana / Togo / Afghanistan / Sierra Leone": {
+    "en": "World review 058 · United Arab Emirates / Guyana / Togo / Afghanistan / Sierra Leone",
+    "ko": "세계 복습 058 · 아랍에미리트 / 가이아나 / 토고 / 아프가니스탄 / 시에라리온",
+    "ja": "世界の復習 058 · アラブ首長国連邦 / ガイアナ / トーゴ / アフガニスタン / シエラレオネ",
+    "es": "Repaso mundial 058 · Emiratos Árabes Unidos / Guyana / Togo / Afganistán / Sierra Leona"
+  },
+  "World review 059 · Venezuela / Uruguay / Zimbabwe / Malawi / Azerbaijan": {
+    "en": "World review 059 · Venezuela / Uruguay / Zimbabwe / Malawi / Azerbaijan",
+    "ko": "세계 복습 059 · 베네수엘라 / 우루과이 / 짐바브웨 / 말라위 / 아제르바이잔",
+    "ja": "世界の復習 059 · ベネズエラ / ウルグアイ / ジンバブエ / マラウイ / アゼルバイジャン",
+    "es": "Repaso mundial 059 · Venezuela / Uruguay / Zimbabue / Malaui / Azerbaiyán"
+  },
+  "World review 060 · Grenada / Belgium / Fiji / Benin / Eswatini": {
+    "en": "World review 060 · Grenada / Belgium / Fiji / Benin / Eswatini",
+    "ko": "세계 복습 060 · 그레나다 / 벨기에 / 피지 / 베냉 / 에스와티니",
+    "ja": "世界の復習 060 · グレナダ / ベルギー / フィジー / ベナン / エスワティニ",
+    "es": "Repaso mundial 060 · Granada / Bélgica / Fiyi / Benín / Esuatini"
+  },
+  "World review 061 · Belarus / Botswana / Finland / Portugal / Peru": {
+    "en": "World review 061 · Belarus / Botswana / Finland / Portugal / Peru",
+    "ko": "세계 복습 061 · 벨라루스 / 보츠와나 / 핀란드 / 포르투갈 / 페루",
+    "ja": "世界の復習 061 · ベラルーシ / ボツワナ / フィンランド / ポルトガル / ペルー",
+    "es": "Repaso mundial 061 · Bielorrusia / Botsuana / Finlandia / Portugal / Perú"
+  },
+  "World review 062 · Mali / Samoa / Turkmenistan / Gambia / Senegal": {
+    "en": "World review 062 · Mali / Samoa / Turkmenistan / Gambia / Senegal",
+    "ko": "세계 복습 062 · 말리 / 사모아 / 투르크메니스탄 / 감비아 / 세네갈",
+    "ja": "世界の復習 062 · マリ / サモア / トルクメニスタン / ガンビア / セネガル",
+    "es": "Repaso mundial 062 · Mali / Samoa / Turkmenistán / Gambia / Senegal"
+  },
+  "World review 063 · Guinea / Russia / Nauru / Israel / Ireland": {
+    "en": "World review 063 · Guinea / Russia / Nauru / Israel / Ireland",
+    "ko": "세계 복습 063 · 기니 / 러시아 / 나우루 / 이스라엘 / 아일랜드",
+    "ja": "世界の復習 063 · ギニア / ロシア / ナウル / イスラエル / アイルランド",
+    "es": "Repaso mundial 063 · Guinea / Rusia / Nauru / Israel / Irlanda"
+  },
+  "World review 064 · Albania / Canada / Philippines / St. Vincent & Grenadines / Chile": {
+    "en": "World review 064 · Albania / Canada / Philippines / St. Vincent & Grenadines / Chile",
+    "ko": "세계 복습 064 · 알바니아 / 캐나다 / 필리핀 / 세인트빈센트그레나딘 / 칠레",
+    "ja": "世界の復習 064 · アルバニア / カナダ / フィリピン / セントビンセント及びグレナディーン諸島 / チリ",
+    "es": "Repaso mundial 064 · Albania / Canadá / Filipinas / San Vicente y las Granadinas / Chile"
+  },
+  "World review 065 · Malta / Colombia / San Marino / Paraguay / Australia": {
+    "en": "World review 065 · Malta / Colombia / San Marino / Paraguay / Australia",
+    "ko": "세계 복습 065 · 몰타 / 콜롬비아 / 산마리노 / 파라과이 / 오스트레일리아",
+    "ja": "世界の復習 065 · マルタ / コロンビア / サンマリノ / パラグアイ / オーストラリア",
+    "es": "Repaso mundial 065 · Malta / Colombia / San Marino / Paraguay / Australia"
+  },
+  "World review 066 · Congo - Brazzaville / Guatemala / Timor-Leste / Lithuania / United States": {
+    "en": "World review 066 · Congo - Brazzaville / Guatemala / Timor-Leste / Lithuania / United States",
+    "ko": "세계 복습 066 · 콩고-브라자빌 / 과테말라 / 동티모르 / 리투아니아 / 미국",
+    "ja": "世界の復習 066 · コンゴ共和国(ブラザビル) / グアテマラ / 東ティモール / リトアニア / アメリカ合衆国",
+    "es": "Repaso mundial 066 · Congo / Guatemala / Timor-Leste / Lituania / Estados Unidos"
+  },
+  "World review 067 · Comoros / Equatorial Guinea / Yemen / Lebanon / Djibouti": {
+    "en": "World review 067 · Comoros / Equatorial Guinea / Yemen / Lebanon / Djibouti",
+    "ko": "세계 복습 067 · 코모로 / 적도 기니 / 예멘 / 레바논 / 지부티",
+    "ja": "世界の復習 067 · コモロ / 赤道ギニア / イエメン / レバノン / ジブチ",
+    "es": "Repaso mundial 067 · Comoras / Guinea Ecuatorial / Yemen / Líbano / Yibuti"
+  },
+  "World review 068 · Uzbekistan / Jamaica / Bosnia & Herzegovina / Germany / Barbados": {
+    "en": "World review 068 · Uzbekistan / Jamaica / Bosnia & Herzegovina / Germany / Barbados",
+    "ko": "세계 복습 068 · 우즈베키스탄 / 자메이카 / 보스니아 헤르체고비나 / 독일 / 바베이도스",
+    "ja": "世界の復習 068 · ウズベキスタン / ジャマイカ / ボスニア・ヘルツェゴビナ / ドイツ / バルバドス",
+    "es": "Repaso mundial 068 · Uzbekistán / Jamaica / Bosnia y Herzegovina / Alemania / Barbados"
+  },
+  "World review 069 · Cape Verde / Suriname / Thailand / Rwanda / Uganda": {
+    "en": "World review 069 · Cape Verde / Suriname / Thailand / Rwanda / Uganda",
+    "ko": "세계 복습 069 · 카보베르데 / 수리남 / 태국 / 르완다 / 우간다",
+    "ja": "世界の復習 069 · カーボベルデ / スリナム / タイ / ルワンダ / ウガンダ",
+    "es": "Repaso mundial 069 · Cabo Verde / Surinam / Tailandia / Ruanda / Uganda"
+  },
+  "World review 070 · Ecuador / Japan / Vanuatu / Sri Lanka / Argentina": {
+    "en": "World review 070 · Ecuador / Japan / Vanuatu / Sri Lanka / Argentina",
+    "ko": "세계 복습 070 · 에콰도르 / 일본 / 바누아투 / 스리랑카 / 아르헨티나",
+    "ja": "世界の復習 070 · エクアドル / 日本 / バヌアツ / スリランカ / アルゼンチン",
+    "es": "Repaso mundial 070 · Ecuador / Japón / Vanuatu / Sri Lanka / Argentina"
+  },
+  "World review 071 · Romania / Liechtenstein / Ghana / Kenya / Tuvalu": {
+    "en": "World review 071 · Romania / Liechtenstein / Ghana / Kenya / Tuvalu",
+    "ko": "세계 복습 071 · 루마니아 / 리히텐슈타인 / 가나 / 케냐 / 투발루",
+    "ja": "世界の復習 071 · ルーマニア / リヒテンシュタイン / ガーナ / ケニア / ツバル",
+    "es": "Repaso mundial 071 · Rumanía / Liechtenstein / Ghana / Kenia / Tuvalu"
+  },
+  "World review 072 · France / Bahrain / South Africa / Zambia / Saudi Arabia": {
+    "en": "World review 072 · France / Bahrain / South Africa / Zambia / Saudi Arabia",
+    "ko": "세계 복습 072 · 프랑스 / 바레인 / 남아프리카 / 잠비아 / 사우디아라비아",
+    "ja": "世界の復習 072 · フランス / バーレーン / 南アフリカ / ザンビア / サウジアラビア",
+    "es": "Repaso mundial 072 · Francia / Baréin / Sudáfrica / Zambia / Arabia Saudí"
+  },
+  "World review 073 · Tunisia / Denmark / Burundi / Tanzania / Poland": {
+    "en": "World review 073 · Tunisia / Denmark / Burundi / Tanzania / Poland",
+    "ko": "세계 복습 073 · 튀니지 / 덴마크 / 부룬디 / 탄자니아 / 폴란드",
+    "ja": "世界の復習 073 · チュニジア / デンマーク / ブルンジ / タンザニア / ポーランド",
+    "es": "Repaso mundial 073 · Túnez / Dinamarca / Burundi / Tanzania / Polonia"
+  },
+  "World review 074 · Algeria / Brazil / Mozambique / Netherlands / Haiti": {
+    "en": "World review 074 · Algeria / Brazil / Mozambique / Netherlands / Haiti",
+    "ko": "세계 복습 074 · 알제리 / 브라질 / 모잠비크 / 네덜란드 / 아이티",
+    "ja": "世界の復習 074 · アルジェリア / ブラジル / モザンビーク / オランダ / ハイチ",
+    "es": "Repaso mundial 074 · Argelia / Brasil / Mozambique / Países Bajos / Haití"
+  },
+  "World review 075 · Sudan / Marshall Islands / Bahamas / North Macedonia / Kazakhstan": {
+    "en": "World review 075 · Sudan / Marshall Islands / Bahamas / North Macedonia / Kazakhstan",
+    "ko": "세계 복습 075 · 수단 / 마셜 제도 / 바하마 / 북마케도니아 / 카자흐스탄",
+    "ja": "世界の復習 075 · スーダン / マーシャル諸島 / バハマ / 北マケドニア / カザフスタン",
+    "es": "Repaso mundial 075 · Sudán / Islas Marshall / Bahamas / Macedonia del Norte / Kazajistán"
+  },
+  "World review 076 · Laos / Burkina Faso / Hungary / Liberia / Bulgaria": {
+    "en": "World review 076 · Laos / Burkina Faso / Hungary / Liberia / Bulgaria",
+    "ko": "세계 복습 076 · 라오스 / 부르키나파소 / 헝가리 / 라이베리아 / 불가리아",
+    "ja": "世界の復習 076 · ラオス / ブルキナファソ / ハンガリー / リベリア / ブルガリア",
+    "es": "Repaso mundial 076 · Laos / Burkina Faso / Hungría / Liberia / Bulgaria"
+  },
+  "World review 077 · Czechia / Dominican Republic / Greece / Nigeria / Albania": {
+    "en": "World review 077 · Czechia / Dominican Republic / Greece / Nigeria / Albania",
+    "ko": "세계 복습 077 · 체코 / 도미니카 공화국 / 그리스 / 나이지리아 / 알바니아",
+    "ja": "世界の復習 077 · チェコ / ドミニカ共和国 / ギリシャ / ナイジェリア / アルバニア",
+    "es": "Repaso mundial 077 · Chequia / República Dominicana / Grecia / Nigeria / Albania"
+  },
+  "World review 078 · Singapore / Moldova / Afghanistan / Uruguay / United States": {
+    "en": "World review 078 · Singapore / Moldova / Afghanistan / Uruguay / United States",
+    "ko": "세계 복습 078 · 싱가포르 / 몰도바 / 아프가니스탄 / 우루과이 / 미국",
+    "ja": "世界の復習 078 · シンガポール / モルドバ / アフガニスタン / ウルグアイ / アメリカ合衆国",
+    "es": "Repaso mundial 078 · Singapur / Moldavia / Afganistán / Uruguay / Estados Unidos"
+  },
+  "World review 079 · Liberia / Burundi / Turkmenistan / Jordan / Oman": {
+    "en": "World review 079 · Liberia / Burundi / Turkmenistan / Jordan / Oman",
+    "ko": "세계 복습 079 · 라이베리아 / 부룬디 / 투르크메니스탄 / 요르단 / 오만",
+    "ja": "世界の復習 079 · リベリア / ブルンジ / トルクメニスタン / ヨルダン / オマーン",
+    "es": "Repaso mundial 079 · Liberia / Burundi / Turkmenistán / Jordania / Omán"
+  },
+  "World review 080 · Peru / New Zealand / Belize / Sweden / Netherlands": {
+    "en": "World review 080 · Peru / New Zealand / Belize / Sweden / Netherlands",
+    "ko": "세계 복습 080 · 페루 / 뉴질랜드 / 벨리즈 / 스웨덴 / 네덜란드",
+    "ja": "世界の復習 080 · ペルー / ニュージーランド / ベリーズ / スウェーデン / オランダ",
+    "es": "Repaso mundial 080 · Perú / Nueva Zelanda / Belice / Suecia / Países Bajos"
+  },
+  "World review 081 · Andorra / Cuba / St. Vincent & Grenadines / Malawi / Mauritius": {
+    "en": "World review 081 · Andorra / Cuba / St. Vincent & Grenadines / Malawi / Mauritius",
+    "ko": "세계 복습 081 · 안도라 / 쿠바 / 세인트빈센트그레나딘 / 말라위 / 모리셔스",
+    "ja": "世界の復習 081 · アンドラ / キューバ / セントビンセント及びグレナディーン諸島 / マラウイ / モーリシャス",
+    "es": "Repaso mundial 081 · Andorra / Cuba / San Vicente y las Granadinas / Malaui / Mauricio"
+  },
+  "World review 082 · Solomon Islands / Malta / Cambodia / Austria / Liechtenstein": {
+    "en": "World review 082 · Solomon Islands / Malta / Cambodia / Austria / Liechtenstein",
+    "ko": "세계 복습 082 · 솔로몬 제도 / 몰타 / 캄보디아 / 오스트리아 / 리히텐슈타인",
+    "ja": "世界の復習 082 · ソロモン諸島 / マルタ / カンボジア / オーストリア / リヒテンシュタイン",
+    "es": "Repaso mundial 082 · Islas Salomón / Malta / Camboya / Austria / Liechtenstein"
+  },
+  "World review 083 · Congo - Brazzaville / Iceland / Eritrea / Comoros / Nicaragua": {
+    "en": "World review 083 · Congo - Brazzaville / Iceland / Eritrea / Comoros / Nicaragua",
+    "ko": "세계 복습 083 · 콩고-브라자빌 / 아이슬란드 / 에리트리아 / 코모로 / 니카라과",
+    "ja": "世界の復習 083 · コンゴ共和国(ブラザビル) / アイスランド / エリトリア / コモロ / ニカラグア",
+    "es": "Repaso mundial 083 · Congo / Islandia / Eritrea / Comoras / Nicaragua"
+  },
+  "World review 084 · Burkina Faso / Cape Verde / Colombia / Taiwan / Australia": {
+    "en": "World review 084 · Burkina Faso / Cape Verde / Colombia / Taiwan / Australia",
+    "ko": "세계 복습 084 · 부르키나파소 / 카보베르데 / 콜롬비아 / 대만 / 오스트레일리아",
+    "ja": "世界の復習 084 · ブルキナファソ / カーボベルデ / コロンビア / 台湾 / オーストラリア",
+    "es": "Repaso mundial 084 · Burkina Faso / Cabo Verde / Colombia / Taiwán / Australia"
+  },
+  "World review 085 · United Kingdom / St. Lucia / Equatorial Guinea / Zimbabwe / Iran": {
+    "en": "World review 085 · United Kingdom / St. Lucia / Equatorial Guinea / Zimbabwe / Iran",
+    "ko": "세계 복습 085 · 영국 / 세인트루시아 / 적도 기니 / 짐바브웨 / 이란",
+    "ja": "世界の復習 085 · イギリス / セントルシア / 赤道ギニア / ジンバブエ / イラン",
+    "es": "Repaso mundial 085 · Reino Unido / Santa Lucía / Guinea Ecuatorial / Zimbabue / Irán"
+  },
+  "World review 086 · Kiribati / Marshall Islands / South Korea / Switzerland / Honduras": {
+    "en": "World review 086 · Kiribati / Marshall Islands / South Korea / Switzerland / Honduras",
+    "ko": "세계 복습 086 · 키리바시 / 마셜 제도 / 대한민국 / 스위스 / 온두라스",
+    "ja": "世界の復習 086 · キリバス / マーシャル諸島 / 韓国 / スイス / ホンジュラス",
+    "es": "Repaso mundial 086 · Kiribati / Islas Marshall / Corea del Sur / Suiza / Honduras"
+  },
+  "World review 087 · Dominican Republic / Bahamas / Bolivia / Bahrain / Hungary": {
+    "en": "World review 087 · Dominican Republic / Bahamas / Bolivia / Bahrain / Hungary",
+    "ko": "세계 복습 087 · 도미니카 공화국 / 바하마 / 볼리비아 / 바레인 / 헝가리",
+    "ja": "世界の復習 087 · ドミニカ共和国 / バハマ / ボリビア / バーレーン / ハンガリー",
+    "es": "Repaso mundial 087 · República Dominicana / Bahamas / Bolivia / Baréin / Hungría"
+  },
+  "World review 088 · Benin / Djibouti / Bangladesh / India / France": {
+    "en": "World review 088 · Benin / Djibouti / Bangladesh / India / France",
+    "ko": "세계 복습 088 · 베냉 / 지부티 / 방글라데시 / 인도 / 프랑스",
+    "ja": "世界の復習 088 · ベナン / ジブチ / バングラデシュ / インド / フランス",
+    "es": "Repaso mundial 088 · Benín / Yibuti / Bangladés / India / Francia"
+  },
+  "World review 089 · Tuvalu / Fiji / Timor-Leste / Lebanon / São Tomé & Príncipe": {
+    "en": "World review 089 · Tuvalu / Fiji / Timor-Leste / Lebanon / São Tomé & Príncipe",
+    "ko": "세계 복습 089 · 투발루 / 피지 / 동티모르 / 레바논 / 상투메 프린시페",
+    "ja": "世界の復習 089 · ツバル / フィジー / 東ティモール / レバノン / サントメ・プリンシペ",
+    "es": "Repaso mundial 089 · Tuvalu / Fiyi / Timor-Leste / Líbano / Santo Tomé y Príncipe"
+  },
+  "World review 090 · Estonia / Azerbaijan / Luxembourg / Niger / Central African Republic": {
+    "en": "World review 090 · Estonia / Azerbaijan / Luxembourg / Niger / Central African Republic",
+    "ko": "세계 복습 090 · 에스토니아 / 아제르바이잔 / 룩셈부르크 / 니제르 / 중앙 아프리카 공화국",
+    "ja": "世界の復習 090 · エストニア / アゼルバイジャン / ルクセンブルク / ニジェール / 中央アフリカ共和国",
+    "es": "Repaso mundial 090 · Estonia / Azerbaiyán / Luxemburgo / Níger / República Centroafricana"
+  },
+  "World review 091 · Palau / Latvia / El Salvador / China / Mexico": {
+    "en": "World review 091 · Palau / Latvia / El Salvador / China / Mexico",
+    "ko": "세계 복습 091 · 팔라우 / 라트비아 / 엘살바도르 / 중국 / 멕시코",
+    "ja": "世界の復習 091 · パラオ / ラトビア / エルサルバドル / 中国 / メキシコ",
+    "es": "Repaso mundial 091 · Palaos / Letonia / El Salvador / China / México"
+  },
+  "World review 092 · Chile / Slovakia / Gambia / Guatemala / United Arab Emirates": {
+    "en": "World review 092 · Chile / Slovakia / Gambia / Guatemala / United Arab Emirates",
+    "ko": "세계 복습 092 · 칠레 / 슬로바키아 / 감비아 / 과테말라 / 아랍에미리트",
+    "ja": "世界の復習 092 · チリ / スロバキア / ガンビア / グアテマラ / アラブ首長国連邦",
+    "es": "Repaso mundial 092 · Chile / Eslovaquia / Gambia / Guatemala / Emiratos Árabes Unidos"
+  },
+  "World review 093 · Micronesia / Czechia / Ukraine / Dominica / Jamaica": {
+    "en": "World review 093 · Micronesia / Czechia / Ukraine / Dominica / Jamaica",
+    "ko": "세계 복습 093 · 미크로네시아 / 체코 / 우크라이나 / 도미니카 / 자메이카",
+    "ja": "世界の復習 093 · ミクロネシア連邦 / チェコ / ウクライナ / ドミニカ国 / ジャマイカ",
+    "es": "Repaso mundial 093 · Micronesia / Chequia / Ucrania / Dominica / Jamaica"
+  },
+  "World review 094 · Panama / Türkiye / Monaco / Pakistan / Somalia": {
+    "en": "World review 094 · Panama / Türkiye / Monaco / Pakistan / Somalia",
+    "ko": "세계 복습 094 · 파나마 / 튀르키예 / 모나코 / 파키스탄 / 소말리아",
+    "ja": "世界の復習 094 · パナマ / トルコ / モナコ / パキスタン / ソマリア",
+    "es": "Repaso mundial 094 · Panamá / Turquía / Mónaco / Pakistán / Somalia"
+  },
+  "World review 095 · Uganda / San Marino / Serbia / Georgia / Philippines": {
+    "en": "World review 095 · Uganda / San Marino / Serbia / Georgia / Philippines",
+    "ko": "세계 복습 095 · 우간다 / 산마리노 / 세르비아 / 조지아 / 필리핀",
+    "ja": "世界の復習 095 · ウガンダ / サンマリノ / セルビア / ジョージア / フィリピン",
+    "es": "Repaso mundial 095 · Uganda / San Marino / Serbia / Georgia / Filipinas"
+  },
+  "World review 096 · Ghana / Uzbekistan / Portugal / Poland / Costa Rica": {
+    "en": "World review 096 · Ghana / Uzbekistan / Portugal / Poland / Costa Rica",
+    "ko": "세계 복습 096 · 가나 / 우즈베키스탄 / 포르투갈 / 폴란드 / 코스타리카",
+    "ja": "世界の復習 096 · ガーナ / ウズベキスタン / ポルトガル / ポーランド / コスタリカ",
+    "es": "Repaso mundial 096 · Ghana / Uzbekistán / Portugal / Polonia / Costa Rica"
+  },
+  "World review 097 · Belgium / Barbados / Mauritania / Nauru / Germany": {
+    "en": "World review 097 · Belgium / Barbados / Mauritania / Nauru / Germany",
+    "ko": "세계 복습 097 · 벨기에 / 바베이도스 / 모리타니 / 나우루 / 독일",
+    "ja": "世界の復習 097 · ベルギー / バルバドス / モーリタニア / ナウル / ドイツ",
+    "es": "Repaso mundial 097 · Bélgica / Barbados / Mauritania / Nauru / Alemania"
+  },
+  "World review 098 · Guinea / North Macedonia / South Sudan / Tajikistan / Israel": {
+    "en": "World review 098 · Guinea / North Macedonia / South Sudan / Tajikistan / Israel",
+    "ko": "세계 복습 098 · 기니 / 북마케도니아 / 남수단 / 타지키스탄 / 이스라엘",
+    "ja": "世界の復習 098 · ギニア / 北マケドニア / 南スーダン / タジキスタン / イスラエル",
+    "es": "Repaso mundial 098 · Guinea / Macedonia del Norte / Sudán del Sur / Tayikistán / Israel"
+  },
+  "World review 099 · Guyana / Lesotho / Mozambique / Mali / Iraq": {
+    "en": "World review 099 · Guyana / Lesotho / Mozambique / Mali / Iraq",
+    "ko": "세계 복습 099 · 가이아나 / 레소토 / 모잠비크 / 말리 / 이라크",
+    "ja": "世界の復習 099 · ガイアナ / レソト / モザンビーク / マリ / イラク",
+    "es": "Repaso mundial 099 · Guyana / Lesoto / Mozambique / Mali / Irak"
+  },
+  "World review 100 · Lithuania / Trinidad & Tobago / Nigeria / Denmark / Vanuatu": {
+    "en": "World review 100 · Lithuania / Trinidad & Tobago / Nigeria / Denmark / Vanuatu",
+    "ko": "세계 복습 100 · 리투아니아 / 트리니다드 토바고 / 나이지리아 / 덴마크 / 바누아투",
+    "ja": "世界の復習 100 · リトアニア / トリニダード・トバゴ / ナイジェリア / デンマーク / バヌアツ",
+    "es": "Repaso mundial 100 · Lituania / Trinidad y Tobago / Nigeria / Dinamarca / Vanuatu"
   }
 }
