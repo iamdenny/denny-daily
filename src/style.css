@@ -301,17 +301,36 @@ footer div {
   font-size: 110px;
   text-align: center;
   line-height: 1.7;
+  min-height: 1.7em;
+}
+.flag:empty::before {
+  content: "";
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: #f6f5f0;
+  vertical-align: middle;
 }
 .answers {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 12px;
 }
+.answers .answer-skeleton {
+  display: block;
+  height: 54px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: #f6f5f0;
+}
 .answers button {
   background: white;
   border: 1px solid #a6aca1;
   color: var(--ink);
   text-align: left;
+  min-height: 54px;
 }
 .answers button.correct {
   border: 2px solid #167466;
@@ -763,11 +782,11 @@ textarea:focus-visible {
 /* Existing owned-service banner artwork; never covers app controls. */
 .service-promo { margin: 1rem 0 1.5rem; color: #252821; }
 .service-promo small { display: block; margin-bottom: .4rem; font-size: .75rem; }
-.service-promo a { display: block; width: 100%; max-width: 970px; margin: auto; }
+.service-promo a { display: block; position: relative; width: 100%; max-width: 970px; aspect-ratio: 970 / 260; margin: auto; }
 .service-promo a:focus-visible { outline: 3px solid #436a40; outline-offset: 5px; }
-.service-promo picture { display: block; }
-.service-promo img { display: block; width: 100%; height: auto; max-height: 260px; object-fit: contain; }
-@media (max-width: 600px) { .service-promo a { max-width: 320px; } }
+.service-promo picture { position: absolute; inset: 0; display: block; }
+.service-promo img { display: block; width: 100%; height: 100%; object-fit: contain; }
+@media (max-width: 600px) { .service-promo a { max-width: 320px; aspect-ratio: 320 / 107; } }
 @media print { .service-promo { display: none !important; } }
 
 .discovery { margin-block: 2rem; padding: clamp(16px,3vw,32px); border: 1px solid #d9ded6; border-radius: 18px; }

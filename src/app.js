@@ -59,6 +59,7 @@ function render() {
     { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" },
   );
   $("#progress").style.width = (n / 5) * 100 + "%";
+  $(".progress").setAttribute("aria-valuenow", String(n));
   $("#round").hidden = done;
   $("#result").hidden = !done;
   if (done) {
@@ -109,6 +110,7 @@ function render() {
         return b;
       }),
     );
+    $("#answers").setAttribute("aria-busy", "false");
     $("#feedback").textContent = reveal
       ? (state.answers[index] === q.country[0]
           ? t("Correct! ")
